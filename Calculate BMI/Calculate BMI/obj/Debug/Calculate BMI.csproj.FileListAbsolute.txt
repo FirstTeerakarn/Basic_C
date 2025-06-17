@@ -1,0 +1,7 @@
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\bin\Debug\Calculate BMI.exe.config
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\bin\Debug\Calculate BMI.exe
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\bin\Debug\Calculate BMI.pdb
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\obj\Debug\Calculate BMI.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\obj\Debug\Calculate BMI.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\obj\Debug\Calculate BMI.exe
+C:\Users\First\source\repos\Calculate BMI\Calculate BMI\obj\Debug\Calculate BMI.pdb
