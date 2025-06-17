@@ -1,0 +1,7 @@
+C:\Users\First\source\repos\Testifelse\Testifelse\bin\Debug\Testifelse.exe.config
+C:\Users\First\source\repos\Testifelse\Testifelse\bin\Debug\Testifelse.exe
+C:\Users\First\source\repos\Testifelse\Testifelse\bin\Debug\Testifelse.pdb
+C:\Users\First\source\repos\Testifelse\Testifelse\obj\Debug\Testifelse.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\Testifelse\Testifelse\obj\Debug\Testifelse.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\Testifelse\Testifelse\obj\Debug\Testifelse.exe
+C:\Users\First\source\repos\Testifelse\Testifelse\obj\Debug\Testifelse.pdb
