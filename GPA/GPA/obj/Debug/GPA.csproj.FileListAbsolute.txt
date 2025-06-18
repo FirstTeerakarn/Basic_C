@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\GPA\GPA\bin\Debug\GPA.exe.config
+C:\Users\First\source\repos\GPA\GPA\bin\Debug\GPA.exe
+C:\Users\First\source\repos\GPA\GPA\bin\Debug\GPA.pdb
+C:\Users\First\source\repos\GPA\GPA\obj\Debug\GPA.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\GPA\GPA\obj\Debug\GPA.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\GPA\GPA\obj\Debug\GPA.exe
+C:\Users\First\source\repos\GPA\GPA\obj\Debug\GPA.pdb
+C:\Users\First\source\repos\GPA\GPA\obj\Debug\GPA.exe.config
