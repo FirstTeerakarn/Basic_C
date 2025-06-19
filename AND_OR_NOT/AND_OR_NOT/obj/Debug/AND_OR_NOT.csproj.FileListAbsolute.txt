@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\bin\Debug\AND_OR_NOT.exe.config
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\bin\Debug\AND_OR_NOT.exe
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\bin\Debug\AND_OR_NOT.pdb
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\obj\Debug\AND_OR_NOT.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\obj\Debug\AND_OR_NOT.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\obj\Debug\AND_OR_NOT.exe
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\obj\Debug\AND_OR_NOT.pdb
+C:\Users\First\source\repos\AND_OR_NOT\AND_OR_NOT\obj\Debug\AND_OR_NOT.exe.config
