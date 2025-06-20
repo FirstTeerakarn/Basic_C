@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\bin\Debug\Easy_GPA.exe.config
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\bin\Debug\Easy_GPA.exe
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\bin\Debug\Easy_GPA.pdb
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\obj\Debug\Easy_GPA.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\obj\Debug\Easy_GPA.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\obj\Debug\Easy_GPA.exe
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\obj\Debug\Easy_GPA.pdb
+C:\Users\First\source\repos\Easy_GPA\Easy_GPA\obj\Debug\Easy_GPA.exe.config
