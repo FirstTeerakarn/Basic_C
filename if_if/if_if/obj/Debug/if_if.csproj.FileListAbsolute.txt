@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\if_if\if_if\bin\Debug\if_if.exe.config
+C:\Users\First\source\repos\if_if\if_if\bin\Debug\if_if.exe
+C:\Users\First\source\repos\if_if\if_if\bin\Debug\if_if.pdb
+C:\Users\First\source\repos\if_if\if_if\obj\Debug\if_if.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\if_if\if_if\obj\Debug\if_if.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\if_if\if_if\obj\Debug\if_if.exe
+C:\Users\First\source\repos\if_if\if_if\obj\Debug\if_if.pdb
+C:\Users\First\source\repos\if_if\if_if\obj\Debug\if_if.exe.config

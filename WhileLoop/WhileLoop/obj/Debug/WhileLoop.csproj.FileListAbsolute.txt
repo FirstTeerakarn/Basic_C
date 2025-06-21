@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\First\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\First\source\repos\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\First\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\First\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
+C:\Users\First\source\repos\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe.config
