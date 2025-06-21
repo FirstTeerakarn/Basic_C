@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\High_Low_values\High_Low_values\bin\Debug\High_Low_values.exe.config
+C:\Users\First\source\repos\High_Low_values\High_Low_values\bin\Debug\High_Low_values.exe
+C:\Users\First\source\repos\High_Low_values\High_Low_values\bin\Debug\High_Low_values.pdb
+C:\Users\First\source\repos\High_Low_values\High_Low_values\obj\Debug\High_Low_values.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\High_Low_values\High_Low_values\obj\Debug\High_Low_values.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\High_Low_values\High_Low_values\obj\Debug\High_Low_values.exe
+C:\Users\First\source\repos\High_Low_values\High_Low_values\obj\Debug\High_Low_values.pdb
+C:\Users\First\source\repos\High_Low_values\High_Low_values\obj\Debug\High_Low_values.exe.config

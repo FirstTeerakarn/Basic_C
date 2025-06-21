@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\bin\Debug\ATM-do_while.exe.config
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\bin\Debug\ATM-do_while.exe
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\bin\Debug\ATM-do_while.pdb
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\obj\Debug\ATM-do_while.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\obj\Debug\ATM-do_while.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\obj\Debug\ATM-do_while.exe
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\obj\Debug\ATM-do_while.pdb
+C:\Users\First\source\repos\ATM-do_while\ATM-do_while\obj\Debug\ATM-do_while.exe.config

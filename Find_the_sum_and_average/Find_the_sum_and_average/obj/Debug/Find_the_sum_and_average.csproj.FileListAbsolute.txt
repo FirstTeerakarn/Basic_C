@@ -1,0 +1,8 @@
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\bin\Debug\Find_the_sum_and_average.exe.config
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\bin\Debug\Find_the_sum_and_average.exe
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\bin\Debug\Find_the_sum_and_average.pdb
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\obj\Debug\Find_the_sum_and_average.csproj.AssemblyReference.cache
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\obj\Debug\Find_the_sum_and_average.csproj.CoreCompileInputs.cache
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\obj\Debug\Find_the_sum_and_average.exe
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\obj\Debug\Find_the_sum_and_average.pdb
+C:\Users\First\source\repos\Find_the_sum_and_average\Find_the_sum_and_average\obj\Debug\Find_the_sum_and_average.exe.config
